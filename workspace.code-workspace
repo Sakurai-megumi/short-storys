@@ -5,6 +5,12 @@
 		}
 	],
 	"settings": {
-		"editor.fontFamily": "'Source Han Code JP'"
-	}
+		"editor.fontFamily": "'Source Han Code JP'",
+			"Novel.preview.linelength": 25,
+			"Novel.preview.linesperpage": 80,
+			"Novel.preview.fontsize": "10pt",
+			"editor.wordWrap": "wordWrapColumn",
+			"editor.wordWrapColumn": 68,
+			"search.useIgnoreFiles": false
+		}
 }
